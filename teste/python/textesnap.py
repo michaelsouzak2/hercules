@@ -143,5 +143,5 @@ def processar_safe(safe_folder):
 
 
 if __name__ == "__main__":
-    SAFE_FOLDER = r"C:\Users\11065311\git\pegasus\app\downloads\S1A_IW_GRDH_1SDV_20251128T083108_20251128T083137_062075_07C458_F0B8.SAFE"
+    SAFE_FOLDER = r"C:\Users\11065311\git\hercules\app\downloads\S1A_IW_GRDH_1SDV_20251128T083108_20251128T083137_062075_07C458_F0B8.SAFE"
     processar_safe(SAFE_FOLDER)
